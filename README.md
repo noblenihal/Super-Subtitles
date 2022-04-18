@@ -13,7 +13,12 @@ Hover => Click => Learn
 
 Just Hover and Click! 
 
+# Hover 
+As you hover on the word, the video is paused. 
 ![Hover](https://user-images.githubusercontent.com/71334544/163888110-7a066492-1cdd-48b3-854b-01d9c6b8a091.png)
+
+# Click 
+Next step is to click on the desired word which pops up the definition box in the video player itself
 ![Click](https://user-images.githubusercontent.com/71334544/163888208-2d2972ef-4d47-4e3c-ae7c-1cf29d070351.png)
 
 
