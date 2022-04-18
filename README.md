@@ -14,15 +14,19 @@ Hover => Click => Learn
 Just Hover and Click! 
 
 ## Hover 
-As you hover on the word, the video is paused. 
+As you hover on the word, the video is paused and your word is highlighted in purple color. 
 ![Hover](https://user-images.githubusercontent.com/71334544/163888110-7a066492-1cdd-48b3-854b-01d9c6b8a091.png)
 
 ## Click 
-Next step is to click on the desired word which pops up the definition box in the video player itself
+Next step is to click on the highlighted word which pops up the definition box in the video player itself
 ![Click](https://user-images.githubusercontent.com/71334544/163888208-2d2972ef-4d47-4e3c-ae7c-1cf29d070351.png)
 
 
+# Future Ideas
 
+- To be able display phonetics and its pronunciation
+- Switch to a better and reliable Dictionary API
+- Store the searched words and access them later in the home page of the Chrome Extension  
 
 
 
