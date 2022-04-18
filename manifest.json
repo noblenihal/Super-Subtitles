@@ -1,0 +1,32 @@
+{
+    "name": "Super Sub",
+    "manifest_version": 3,
+    "version": "1.0",
+    "description": "Learn the meaning of words while watching the videos on YouTube and Netflix",
+    "action": {
+      "default_title": "Super Subtitle"
+    },
+    "permissions": [
+      "storage",
+      "activeTab",
+      "scripting",
+      "tabs"
+    ],
+    "icons": {
+      "16": "logo/supersub16.png",
+      "32": "logo/supersub32.png",
+      "48": "logo/supersub48.png",
+      "128": "logo/supersub128.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [{
+      "matches": ["https://www.youtube.com/watch*"],
+      "js" : ["content.js"],
+      "run_at" : "document_idle"
+    }],
+    "host_permissions": [
+      "https://www.youtube.com/*"
+    ]
+  }
