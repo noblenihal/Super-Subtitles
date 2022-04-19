@@ -4,9 +4,9 @@ Chrome Extension to learn English through Subtitles while watching YouTube
 
 # How does it helps 
 
-Non-native English speakers often tend to look for meaning of difficult words. Learning while watching YouTube is a great way to learn a language. You will definitely need a dictionary in hand to understand the true meaning of the sentences.
+Non-native English speakers often tend to look for meaning of difficult words. Learning while watching YouTube videos with subtitles is a great way to learn a English. You will definitely need a dictionary in hand to understand the true meaning of the sentences.
 
-Wouldn't it be great if you could get the meaning of the words in the YouTube Video Player itself? Well thats pretty much what this extension does for you.
+Wouldn't it be great if you could get the meaning of these words in the YouTube Video Player itself? Well thats pretty much what this extension does for you.
 Hover => Click => Learn
 
 # How does it work
@@ -22,12 +22,12 @@ Next step is to click on the highlighted word which pops up the definition box i
 ![Click](https://user-images.githubusercontent.com/71334544/163888208-2d2972ef-4d47-4e3c-ae7c-1cf29d070351.png)
 
 
-# Future Ideas
+# Future Plan
 
 - To be able display phonetics and its pronunciation
 - Switch to a better and reliable Dictionary API
 - Store the searched words and access them later in the home page of the Chrome Extension  
-
+- Bring the pop up box near the word itself
 
 
 
