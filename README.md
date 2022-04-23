@@ -15,11 +15,11 @@ Just Hover and Click!
 
 ## Hover 
 As you hover on the word, the video is paused and your word is highlighted in purple color. 
-<img src="https://user-images.githubusercontent.com/71334544/163888110-7a066492-1cdd-48b3-854b-01d9c6b8a091.png" width="200"  />
+<img src="https://user-images.githubusercontent.com/71334544/163888110-7a066492-1cdd-48b3-854b-01d9c6b8a091.png" width="650"  />
 
 ## Click 
 Next step is to click on the highlighted word which pops up the definition box in the video player itself
-<img src="https://user-images.githubusercontent.com/71334544/163888208-2d2972ef-4d47-4e3c-ae7c-1cf29d070351.png" width="200"  />
+<img src="https://user-images.githubusercontent.com/71334544/163888208-2d2972ef-4d47-4e3c-ae7c-1cf29d070351.png" width="650"  />
 
 
 # Future Plan
